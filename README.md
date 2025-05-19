@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
-  <a href="mailto:poojalpatil21@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
   </a>
 </p>
