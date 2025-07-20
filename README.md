@@ -43,6 +43,6 @@
 ## 🤝 Connect with Me
 
 - 📧 [Email](mailto:poojalpatil21@gmail.com)
-- 💼 [LinkedIn](linkedin.com/in/pooja-patil-72858a269)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pooja-patil-72858a269/)
 
 > Let's connect and collaborate on exciting projects together! 🚀
