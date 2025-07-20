@@ -1,57 +1,48 @@
-<h1 align="center">Hi 👋, I'm Pooja Patil</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+# 👋 Welcome to Pooja Patil's GitHub Profile
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+## About Me ℹ️
 
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/pooja-patil-72858a269/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:poojalpatil21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a>
-</p>
+- 🎓 I'm completed my B.Tech in computer science at SVERI'S College Of Engineering Pandharpur ,Solapur.
+- 💻 I'm a Full Stack Java Developer passionate about building scalable web applications
+- 🚀 I enjoy working on real-world projects using **Spring Boot**, **React**, **MySQL**, and more
 
 ---
 
-### 💻 Tech Stack
+## 🛠️ Projects
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛒 E-Commerce Website (Full Stack)
+- **Description:** Designed and developed a full-fledged E-Commerce web application with admin and customer dashboards, cart, product listings, order management, and payment gateway integration.
+- **Tech Stack:** Spring Boot, React.js, REST API, MySQL, Stripe API, JWT, Spring Security
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 📚 Library Management System
+- **Description:** Console + Web-based CRUD app for managing books, members, issue/return, and reports.
+- **Tech Stack:** Java, JDBC, Servlet, MySQL, HTML/CSS
 
-**Backend & Frameworks:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+### 📊 Student Result Management System
+- **Description:** Web application to manage student records, results, and performance tracking.
+- **Tech Stack:** Spring MVC, JDBC, JSP, MySQL
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poojaapatil2117&show_icons=true&theme=radical" alt="Pooja's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojaapatil2117&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+## 🧰 Skills & Technologies
+
+### 👨‍💻 Programming Languages
+- Java, JavaScript, C, HTML, CSS
+
+### 🌐 Web Development
+- Spring Boot, Spring MVC, REST APIs, React.js, Thymeleaf, JSP, Servlet
+
+### 🗃️ Database
+- MySQL, JDBC, JPA, Hibernate
+
+### 🔐 Tools & Others
+- GitHub, Postman, VS Code, IntelliJ IDEA, Maven,eclips
 
 ---
 
-### 🧠 Currently Working On:
-- 🔭 Spring Boot + React Projects
-- 💡 Learning more about scalable backend architecture
-- 🛠️ Building real-world full-stack applications
+## 🤝 Connect with Me
 
----
+- 📧 [Email](mailto:poojalpatil21@gmail.com)
+- 💼 [LinkedIn](linkedin.com/in/pooja-patil-72858a269)
 
-### ✨ Fun Fact:
-I love debugging and turning coffee into code ☕💻
-
+> Let's connect and collaborate on exciting projects together! 🚀
